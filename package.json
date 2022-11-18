@@ -4,7 +4,7 @@
     "console.table": "^0.10.0",
     "dotenv": "^16.0.3",
     "init": "^0.1.2",
-    "inquirer": "^9.1.4",
+    "inquirer": "^8.2.0",
     "mysql2": "^2.3.3",
     "table": "^6.8.1"
   }
