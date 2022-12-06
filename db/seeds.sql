@@ -18,11 +18,11 @@ VALUES
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
-('Ludwig', 'Beethoven', 1, null),
-('Johann', 'Bach', 2, null),
-('Wolfgang', 'Mozart', 3, null),
-('Johannes', 'Brahms', 4, null),
-('Richard', 'Wagner', 5, 1),
-('Claude', 'Debussy', 6, null),
-('Pyotr', 'Tchaikovsky', 7, null),
-('Frederic', 'Chopin', 8, null);
+('Phelps', 'Nathalie', 1, null),
+('Woods', 'Jacob', 2, null),
+('Gonzalez', 'Robert', 3, null),
+('Johannes', 'Sherry', 4, null),
+('Steele', 'Richard', 5, 1),
+('Lewis', 'Kyle', 6, null),
+('Newman', 'Tom', 7, null),
+('Frederics', 'Justin', 8, null);
